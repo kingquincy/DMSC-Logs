@@ -2,6 +2,4 @@
 
 ### LOGS
 
-[Alogorithmic Walk](2021-02-17-Algorithmic-Walk.md) - First Log including Algorithmic Walk Code and response
-
-
+[Alogorithmic Walk](https://github.com/kingquincy/DMSC-Logs/blob/main/2021-02-17-Algorithmic-Walk) - First Log including Algorithmic Walk Code and response
