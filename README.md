@@ -1,4 +1,3 @@
 # dmsc-log
 
-HELLO WORLD
 
