@@ -13,8 +13,8 @@ Using LOGO was a nice easy reentry into coding as it had been a couple months si
 
 
 Algorithmic Walk Code
-Code:
-Exit Home
+## Code:
+> Exit Home
 Turn Right
 Repeat 4 times (
 Walk Forward 3 blocks
@@ -29,4 +29,5 @@ Turn Random direction
 
 After-Walk Response:
 Ok, just finished my walk and I just wanna start off by saying I’m cold and tired and want to complain, at the end of the walk I surprisingly ended up on the same avenue that I started on just many, many blocks away from the start point. I ended up walking for a lot longer than I expected. I actually ran into more problems in my ‘code’ than I foresaw. To start off the blocks at the very start of my walk near my house, I forgot just how long they were, which caused the first blocks the I walked to be worth like twice the normal amount, which isn’t really a problem per say, but I’m lazy and wanted to complain about the extra walking I had to do. The first actual problem I ran into was I reached a dead end in only my first run through of my code which definitely threw me off, so I just decided that I would cut the ‘walk forward’ command I was currently running short then treat turning around as the next ‘turn’ command. My next problem occurred pretty much right after that, while I was in the process of walking forward the streets stopped and I could only turn left or right, so I again had to cut the ‘walk forward’ command I was currently running short and immediately move on to the next command of making a turn. I was faced with the issue of not being able to turn the direction that was specified in the code multiple time and instead had to turn in the opposite direction. 
+
 I walked through many different areas that were unfamiliar to me, I got to areas that seemed extremely different from the streets I’m used to despite that fact that I still recognized all the street names. My biggest problems from my walk came from simply running out of street to walk and was at no fault of my own. My instructions were perfect and the streets just need to do a better job accommodating me and my instructions.
