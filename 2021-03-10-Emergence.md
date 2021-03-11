@@ -10,7 +10,7 @@ There is an artificial life program called Framsticks, a 3D artificial life simu
 
 The emergence in this program can be seen through the 'evolution' that occurs over time. The organisms created by this program interact with their environment and often with other generated organisms and through those interactions these organisms develop new properties in order to help them grow and improve or 'evolve'. This program even has 'agent-based systems' which facilitate these evolutions also allowing for coevolution. 
 
-In regards to my own code (https://editor.p5js.org/quincywashington/sketches/IJjRw_Vy8 - without arrays; https://editor.p5js.org/quincywashington/sketches/MPpGu7A4v - with arrays)
+In regards to my own code ([Code without arrays](https://editor.p5js.org/quincywashington/sketches/IJjRw_Vy8); [Code with arrays](https://editor.p5js.org/quincywashington/sketches/MPpGu7A4v))
 
 ![Screenshot 2021-03-10 215610.png]({{site.baseurl}}/Screenshot 2021-03-10 215610.png)
 
