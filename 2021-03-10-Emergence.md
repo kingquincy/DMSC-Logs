@@ -10,10 +10,11 @@ There is an artificial life program called Framsticks, a 3D artificial life simu
 
 The emergence in this program can be seen through the 'evolution' that occurs over time. The organisms created by this program interact with their environment and often with other generated organisms and through those interactions these organisms develop new properties in order to help them grow and improve or 'evolve'. This program even has 'agent-based systems' which facilitate these evolutions also allowing for coevolution. 
 
-In regards to my own code ([Code without arrays](https://editor.p5js.org/quincywashington/sketches/IJjRw_Vy8); [Code with arrays](https://editor.p5js.org/quincywashington/sketches/MPpGu7A4v))
+In regards to my own code ([Code without arrays](https://editor.p5js.org/quincywashington/sketches/IJjRw_Vy8); [Code with arrays](https://editor.p5js.org/quincywashington/sketches/MPpGu7A4v)) for my first creature that I created I made two 'creatures' that would be affected by the force of gravity, I also made it so that they collided with each other so that they are able to physically interact. So even without adding an array I think I was able to create some semblance of emergence. Despite the fact that they don't really change over time because of their interaction, I got the first part of emergence, the interaction itself, which is arguably the most important part.  
 
 ![Screenshot 2021-03-10 215610.png]({{site.baseurl}}/Screenshot 2021-03-10 215610.png)
 
+After adding an array and making many different balls existing in this area, I unfortunately had to remove collision detection from the balls, purely because of my own lack of ability, which took away the more obvious showing of emergence, but having all these balls exist in this 'environment' is still shows emergence, even if they aren't physically interacting with each other they are still interacting with the environment when they bounce off the walls. 
 
 ![idk.png]({{site.baseurl}}/idk.png)
 
