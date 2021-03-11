@@ -6,4 +6,6 @@
 
 [AARON and NoPaint](2021-02-17-AARON-and-NoPaint.md) - Second Log including discussing about the AI system AARON and the art making program NoPaint
 
-[Artificial Life](2021-03-03-Artificial-Life.md) - Third Log including discussing some artificial life programs
+[Artificial Life](2021-03-03-Artificial-Life.md) - Not a Log including discussing some artificial life programs
+
+[Emergence and Artificial Life](2021-03-10-Emergence.md) - Third Log including discussing Emergence, it's connection to artificial life and my own code
