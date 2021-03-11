@@ -8,4 +8,4 @@
 
 [Artificial Life](2021-03-03-Artificial-Life.md) - Not a Log including discussing some artificial life programs
 
-[Emergence and Artificial Life](2021-03-10-Emergence.md) - Third Log including discussing Emergence, it's connection to artificial life and my own code
+[Emergence and Artificial Life](https://kingquincy.github.io/DMSC-Logs/2021-03-10-Emergence.html) - Third Log including discussing Emergence, it's connection to artificial life and my own code
