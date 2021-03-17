@@ -9,3 +9,5 @@
 [Artificial Life](2021-03-03-Artificial-Life.md) - Not a Log including discussing some artificial life programs
 
 [Emergence and Artificial Life](https://kingquincy.github.io/DMSC-Logs/2021-03-10-Emergence.html) - Third Log including discussing Emergence, it's connection to artificial life and my own code
+
+[LiveCoding](2021-03-17-LiveCoding.md) - Fourth Log discussing live coding music in Estuary
