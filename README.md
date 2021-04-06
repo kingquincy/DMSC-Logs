@@ -11,3 +11,5 @@
 [Emergence and Artificial Life](https://kingquincy.github.io/DMSC-Logs/2021-03-10-Emergence.html) - Third Log including discussing Emergence, it's connection to artificial life and my own code
 
 [LiveCoding](https://kingquincy.github.io/DMSC-Logs/2021-03-17-LiveCoding.html) - Fourth Log discussing live coding music in Estuary
+
+[Hydra](https://kingquincy.github.io/DMSC-Logs/2021-04-06-Hydra.html) - Fifth Log discussing live coding using Hydra
