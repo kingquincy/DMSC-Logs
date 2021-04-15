@@ -13,3 +13,5 @@
 [LiveCoding](https://kingquincy.github.io/DMSC-Logs/2021-03-17-LiveCoding.html) - Fourth Log discussing live coding music in Estuary
 
 [Hydra](https://kingquincy.github.io/DMSC-Logs/2021-04-06-Hydra.html) - Fifth Log discussing live coding using Hydra
+
+[Squirrel Game](https://kingquincy.github.io/DMSC-Logs/2021-04-15-Squirrel-Game.html) - Sixth Log discussing the attempt of making a Squirrel Eating Game
