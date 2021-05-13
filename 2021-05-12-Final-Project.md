@@ -1,0 +1,12 @@
+## Seventh Log - Final Project
+
+[Final Project Code](https://editor.p5js.org/quincywashington/sketches/zPsfzdZNE)
+
+[Final Project Fullscreen Code](https://editor.p5js.org/quincywashington/present/zPsfzdZNE)
+
+For my final project I had a very simple idea that I wanted to execute. I wanted to create something like a 'walking simulator' where a character walks forward and backward in front of a background and have it change every time the character reaches the limits of the screen. In the final project itself I did what I originally set out to do, the character is able to walk back and forth and every time they reach the borders of the screen they reappear on the opposite side of the screen and the background changes, but there were some other things added to increase randomness, I made the character size change randomly whenever the character passes the limits of the screen and also the image filter of the background and the character changes randomly between posterize, threshold, invert and gray. The idea itself was inspired by the procedural generation of dungeon crawler games and roguelites in which the areas the player explores are always changing randomly, although I didn’t want to actually make a procedurally generated dungeon, maybe one day in the future, I wanted to dumb that idea down, and this is what I came up with. I got the character walking sprites off of opengameart, and there are a total of 20 landscapes that are cycled through that I got from Google. One challenge to start out with was figuring out how to get the images to randomly cycle through in the image array, I solved this by creating a variable that chooses a random number between 0 and 19 picking from the array, that chooses a new random number every time the player passes the screen boundaries, I used the same method for other randomness that occurs when the player passes the screen limits. Another challenge I had was getting the character to face in the direction he was moving in. I played around with rotation and directions, but in the end I took a much simpler approach. To start off I created a copy of all the walking sprites and flipped them I created a boolean for the sprite, that was false by default, then in the display function of the play class I made it
+
+![Screenshot 2021-05-13 142645.jpg]({{site.baseurl}}/Screenshot 2021-05-13 142645.jpg)
+
+![Screenshot 2021-05-13 142746.jpg]({{site.baseurl}}/Screenshot 2021-05-13 142746.jpg)
+
